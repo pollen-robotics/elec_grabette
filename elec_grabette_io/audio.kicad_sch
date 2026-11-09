@@ -5907,7 +5907,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0eec1321-aae1-44dd-9850-31f0d619f89d")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR065"
 			(at 228.6 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5967,7 +5967,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR06")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -5985,7 +5985,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f1998aa-8239-4f1e-b147-a5c28a229b61")
-		(property "Reference" "C1"
+		(property "Reference" "C21"
 			(at 179.0763 80.01 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6058,7 +6058,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C1")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -6076,7 +6076,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "156dd9ee-c8e6-409a-8a7d-797bf4d043af")
-		(property "Reference" "J1"
+		(property "Reference" "J7"
 			(at 266.7 104.1401 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6162,7 +6162,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "J1")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -6180,7 +6180,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "18ff5505-4b14-445e-a672-fd0902336d6c")
-		(property "Reference" "C31"
+		(property "Reference" "C12"
 			(at 57.15 139.6935 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6255,7 +6255,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C31")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -6401,7 +6401,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "232a9048-ee77-40bb-bfb3-1bd03f38d280")
-		(property "Reference" "C14"
+		(property "Reference" "C7"
 			(at 24.638 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6685,7 +6685,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C14")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -6702,7 +6702,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "28503a38-db04-491f-a3a5-4cde800e7012")
-		(property "Reference" "C11"
+		(property "Reference" "C37"
 			(at 254.508 131.064 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6986,7 +6986,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C11")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -7004,7 +7004,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2abc5551-df07-416c-b459-ab11ced553bc")
-		(property "Reference" "C10"
+		(property "Reference" "C35"
 			(at 242.824 140.716 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7077,7 +7077,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C10")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -7094,7 +7094,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3164ffcb-fb12-447c-876d-a88707afbbdf")
-		(property "Reference" "C7"
+		(property "Reference" "C33"
 			(at 239.776 65.278 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7170,7 +7170,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C7")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -7188,7 +7188,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33cae6b9-49f7-4cb2-8566-f8f18d56137c")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR072"
 			(at 259.08 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -7249,7 +7249,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR019")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -7267,7 +7267,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "350be38b-52b0-46e2-9480-06c69d173720")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR052"
 			(at 139.7 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -7328,7 +7328,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR021")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -7346,7 +7346,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "362fcd11-91bf-4eef-b378-50c282b885fd")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR070"
 			(at 252.73 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7407,7 +7407,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR014")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -7425,7 +7425,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a840ece-304a-4f19-9452-1825a6c4b14a")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR036"
 			(at 49.53 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -7486,7 +7486,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR024")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -7504,7 +7504,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3cb0a24a-c552-41d0-abcc-2251f465b93b")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR054"
 			(at 175.26 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -7564,7 +7564,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR07")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -7582,7 +7582,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3d00266c-3f64-4937-80cd-44c8f67d80b5")
-		(property "Reference" "J2"
+		(property "Reference" "J5"
 			(at 266.7 39.3701 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7668,7 +7668,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "J2")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -7686,7 +7686,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "43cfe4d3-29c4-4796-85c4-71e0b2836b3a")
-		(property "Reference" "C6"
+		(property "Reference" "C32"
 			(at 233.934 65.278 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7762,7 +7762,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C6")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -7780,7 +7780,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44293f3a-1ce4-4fdf-987e-7aea326cc88b")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR050"
 			(at 144.78 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -7841,7 +7841,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR02")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -7859,7 +7859,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46afb90f-93fb-4fbb-b411-25c455d3dfa1")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR055"
 			(at 184.15 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -7920,7 +7920,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR05")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -7938,7 +7938,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46c5a005-23fc-4b1d-b000-2989812d1e06")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR060"
 			(at 208.28 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -7999,7 +7999,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR03")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -8016,7 +8016,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "47ec4bc5-b2e1-4d3e-a251-fda6e7b69cc2")
-		(property "Reference" "C5"
+		(property "Reference" "C29"
 			(at 223.012 65.278 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8091,7 +8091,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C5")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -8108,7 +8108,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4bada62d-923b-4c59-bf92-f8462caa160e")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR048"
 			(at 83.82 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -8169,7 +8169,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR020")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -8187,7 +8187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4cff0903-af12-467e-ae79-f8454fd37ee5")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR058"
 			(at 199.39 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -8248,7 +8248,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR09")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -8266,7 +8266,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d2a18ea-05f2-4cbc-bd9a-1d3fa98e1d68")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR051"
 			(at 144.78 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -8327,7 +8327,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR033")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -8344,7 +8344,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "52febeb0-987e-422b-808f-22425ddf9381")
-		(property "Reference" "R6"
+		(property "Reference" "R11"
 			(at 79.502 101.092 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8615,7 +8615,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "R6")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -8633,7 +8633,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "570770ac-25c5-4498-81bb-f45463d64012")
-		(property "Reference" "C42"
+		(property "Reference" "C31"
 			(at 221.996 23.114 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8709,7 +8709,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C42")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -8727,7 +8727,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "589ed1e2-5c47-4695-bc97-98550dff9edd")
-		(property "Reference" "R2"
+		(property "Reference" "R14"
 			(at 189.23 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9032,7 +9032,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "R2")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -9050,7 +9050,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5929f27e-75fa-416e-a38e-13abd09386bf")
-		(property "Reference" "TP3"
+		(property "Reference" "TP2"
 			(at 234.95 88.8999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9112,7 +9112,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "TP3")
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -9130,7 +9130,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59be59ee-43be-4ed1-a14b-40dfe9daa2cd")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR037"
 			(at 59.69 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -9191,7 +9191,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR045")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -9209,7 +9209,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64275b9d-076b-4855-b958-b133f5aab6ad")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR039"
 			(at 59.69 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -9270,7 +9270,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR047")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -9288,7 +9288,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6554933a-7efa-48cc-bc76-f67cf41e6b53")
-		(property "Reference" "R5"
+		(property "Reference" "R17"
 			(at 192.278 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9515,7 +9515,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "R5")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -9533,7 +9533,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "690168d4-e4a8-4740-a3e3-0057ae92cfbd")
-		(property "Reference" "C33"
+		(property "Reference" "C23"
 			(at 191.77 64.7762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9608,7 +9608,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C33")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -9626,7 +9626,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6997008f-58b5-4e26-a4c0-146a1f2483b5")
-		(property "Reference" "R1"
+		(property "Reference" "R13"
 			(at 189.23 81.28 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9930,7 +9930,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "R1")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -9948,7 +9948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69b01281-d5b6-4a71-bc2d-0a8154e8df28")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR032"
 			(at 29.21 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -10009,7 +10009,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR037")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -10027,7 +10027,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b937a14-1b46-4c9c-b7a4-d1549ceff37d")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR057"
 			(at 196.85 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -10088,7 +10088,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR04")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -10106,7 +10106,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6cc04f14-91e6-4dcf-a740-b5815ee85e80")
-		(property "Reference" "C41"
+		(property "Reference" "C26"
 			(at 214.122 38.354 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10181,7 +10181,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C41")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -10199,7 +10199,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6ff91568-fab9-431f-a2b4-4020c032f06f")
-		(property "Reference" "C40"
+		(property "Reference" "C27"
 			(at 214.122 44.704 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10274,7 +10274,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C40")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -10292,7 +10292,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72d92479-33d9-4623-bf7d-21c17e25c106")
-		(property "Reference" "U3"
+		(property "Reference" "U6"
 			(at 49.53 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10369,7 +10369,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "U3")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -10386,7 +10386,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "766b7741-6a50-4044-a84d-e99b39aef6d8")
-		(property "Reference" "R42"
+		(property "Reference" "R18"
 			(at 212.09 23.622 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10459,7 +10459,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "R42")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -10476,7 +10476,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7792987d-427f-45ed-b6a4-b14ea6bc8b79")
-		(property "Reference" "R22"
+		(property "Reference" "R19"
 			(at 239.014 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10782,7 +10782,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "R22")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -10800,7 +10800,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7e5cd8a0-a4e7-4666-a280-2857a01fff5f")
-		(property "Reference" "C28"
+		(property "Reference" "C18"
 			(at 69.596 152.908 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11073,7 +11073,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C28")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -11091,7 +11091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7eddff81-898b-42ee-8345-a91c91f2d8e9")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR045"
 			(at 64.77 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -11152,7 +11152,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR043")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -11170,7 +11170,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8036b7fe-7ae4-4769-801a-e633826ac0ba")
-		(property "Reference" "TP2"
+		(property "Reference" "TP1"
 			(at 144.78 124.4599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11232,7 +11232,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "TP2")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -11249,7 +11249,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "80ef4838-439a-449c-8292-5853b0412b0f")
-		(property "Reference" "U1"
+		(property "Reference" "U8"
 			(at 200.66 82.296 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11366,7 +11366,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "U1")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -11384,7 +11384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89d7af32-2aa0-41b1-8dfb-75e8fce6eccb")
-		(property "Reference" "TP4"
+		(property "Reference" "TP3"
 			(at 234.95 91.4399 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11446,7 +11446,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "TP4")
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -11464,7 +11464,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89e191cd-fa10-4700-bbba-2cf0987947f7")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR030"
 			(at 27.94 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -11524,7 +11524,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR044")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -11542,7 +11542,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a12d0de-4f30-4764-8d27-69d3c0caf070")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR035"
 			(at 46.99 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -11603,7 +11603,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR034")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -11621,7 +11621,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8b065720-bdb8-4f09-b3be-f53095e91d6e")
-		(property "Reference" "R3"
+		(property "Reference" "R15"
 			(at 192.278 97.79 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11848,7 +11848,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "R3")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -11866,7 +11866,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8df2fca0-f980-41ea-a89b-06238c9cab20")
-		(property "Reference" "C35"
+		(property "Reference" "C11"
 			(at 57.15 126.9935 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11941,7 +11941,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C35")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -11959,7 +11959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f4e839d-29af-4c8f-b1e2-768e52688d11")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR038"
 			(at 59.69 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -12020,7 +12020,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR049")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -12038,7 +12038,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90c26126-287e-4bce-b133-87ee5eccb21f")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR074"
 			(at 265.43 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12099,7 +12099,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR017")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -12117,7 +12117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91be15bf-65f6-4424-8641-cd4a63b5b037")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR047"
 			(at 71.12 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -12177,7 +12177,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR023")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -12195,7 +12195,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "922e1dd3-4c30-4e73-a3f3-8c5cfd5bc1d0")
-		(property "Reference" "R7"
+		(property "Reference" "R12"
 			(at 145.288 118.11 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12422,7 +12422,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "R7")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -12440,7 +12440,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94fee78e-36c6-445a-97d6-c544db85819c")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR041"
 			(at 62.23 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -12501,7 +12501,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR025")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -12519,7 +12519,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "97c7b6fe-32be-49e1-a879-0ea15d22da01")
-		(property "Reference" "C32"
+		(property "Reference" "C17"
 			(at 69.596 138.938 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12792,7 +12792,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C32")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -12809,7 +12809,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "9849bd13-6693-4ad1-91eb-e59fef24b87d")
-		(property "Reference" "R36"
+		(property "Reference" "R21"
 			(at 243.586 46.482 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13036,7 +13036,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "R36")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -13145,7 +13145,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c1db7e1-884e-4fd5-8b77-5307ee25b6d0")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR067"
 			(at 238.76 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -13206,7 +13206,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR013")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -13224,7 +13224,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c9a1dd7-6a51-4103-8aae-1284ea1ca629")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR061"
 			(at 218.44 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -13285,7 +13285,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR010")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -13303,7 +13303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ddc6155-a02c-45fe-b42d-0546d7670f50")
-		(property "Reference" "#PWR094"
+		(property "Reference" "#PWR049"
 			(at 83.82 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -13364,7 +13364,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR094")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -13382,7 +13382,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fdbad5d-2010-4898-9d14-e06f7302a143")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR071"
 			(at 257.81 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -13443,7 +13443,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR035")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -13461,7 +13461,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a2f489e0-eb25-4bae-9361-9f1995e138f9")
-		(property "Reference" "C30"
+		(property "Reference" "C15"
 			(at 69.596 113.538 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13734,7 +13734,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C30")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -13831,7 +13831,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a93ebe8e-2655-4236-8ba4-2ccbd1b5830f")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR040"
 			(at 59.69 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -13892,7 +13892,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR042")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -13910,7 +13910,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "abab8773-4e7c-48c5-83af-792754968101")
-		(property "Reference" "C43"
+		(property "Reference" "C30"
 			(at 221.996 24.8855 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13985,7 +13985,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C43")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -14003,7 +14003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae023ebf-3310-4646-9e40-fe4bd26347da")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR056"
 			(at 194.31 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -14064,7 +14064,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR08")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -14082,7 +14082,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0ce8674-0f60-49e2-b14e-2116dfaed6a7")
-		(property "Reference" "U2"
+		(property "Reference" "U7"
 			(at 111.76 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14248,7 +14248,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "U2")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -14265,7 +14265,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b186c20f-82c6-4d45-82f8-ef2955249afa")
-		(property "Reference" "C3"
+		(property "Reference" "C24"
 			(at 194.056 108.204 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14338,7 +14338,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C3")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -14356,7 +14356,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b23f2f83-99ac-4d85-a975-9d4e58925058")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR068"
 			(at 242.57 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -14417,7 +14417,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR01")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -14435,7 +14435,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b434263c-ffbb-4348-89a9-3e5464ecd09e")
-		(property "Reference" "R4"
+		(property "Reference" "R16"
 			(at 192.278 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14662,7 +14662,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "R4")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -14679,7 +14679,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b59f3769-87e3-4403-af64-17e62bc3d1fc")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR059"
 			(at 204.47 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -14739,7 +14739,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR062")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -14757,7 +14757,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5a842aa-e15d-44af-a60d-e6d5969e8467")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR073"
 			(at 265.43 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -14817,7 +14817,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR018")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -14835,7 +14835,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b96a6dc6-c63f-4fa0-bbab-197e6f00c767")
-		(property "Reference" "C29"
+		(property "Reference" "C10"
 			(at 57.15 114.2935 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14910,7 +14910,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C29")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -14928,7 +14928,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc957201-20d6-4820-a427-715960f81d52")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR034"
 			(at 40.64 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -14989,7 +14989,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR051")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -15007,7 +15007,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bee45c9c-7071-4580-bbc0-d2e7ecf92255")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR044"
 			(at 64.77 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -15068,7 +15068,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR048")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -15086,7 +15086,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf53f1db-ded2-4800-a486-fb34420e71b9")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR069"
 			(at 247.65 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -15147,7 +15147,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR088")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -15164,7 +15164,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c534d4b1-5ab5-49fe-973d-50295034fd08")
-		(property "Reference" "R23"
+		(property "Reference" "R20"
 			(at 239.014 22.352 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15471,7 +15471,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "R23")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -15489,7 +15489,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c69760c7-481d-4942-bcfd-74c5e63fedef")
-		(property "Reference" "C8"
+		(property "Reference" "C34"
 			(at 240.03 107.9562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15500,7 +15500,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220n"
+		(property "Value" "220p"
 			(at 240.03 110.4962 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15564,7 +15564,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C8")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -15581,7 +15581,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c7e474c8-b082-4c6a-a854-b8a92045a532")
-		(property "Reference" "C9"
+		(property "Reference" "C36"
 			(at 255.27 107.9562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15592,7 +15592,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220n"
+		(property "Value" "220p"
 			(at 255.27 110.4962 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15656,7 +15656,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C9")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -15674,7 +15674,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9d790a3-fe7a-4ca8-b0d0-933921ea8c9d")
-		(property "Reference" "C34"
+		(property "Reference" "C25"
 			(at 201.93 64.7762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15749,7 +15749,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C34")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -15767,7 +15767,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce865210-ffce-449b-bc83-09432d80782b")
-		(property "Reference" "#FLG06"
+		(property "Reference" "#FLG01"
 			(at 208.28 59.055 0)
 			(hide yes)
 			(show_name no)
@@ -15828,7 +15828,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#FLG06")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -15846,7 +15846,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d23fd1f6-d80c-4191-9290-81f43aa1c775")
-		(property "Reference" "C12"
+		(property "Reference" "C14"
 			(at 61.468 177.038 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15921,7 +15921,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C12")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -15939,7 +15939,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d2c28d67-c8cf-444e-a366-f42323776e25")
-		(property "Reference" "C26"
+		(property "Reference" "C19"
 			(at 72.136 177.038 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16212,7 +16212,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C26")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -16230,7 +16230,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8672eb8-e8b7-4f11-a6ac-5d17a1073311")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR053"
 			(at 152.4 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -16291,7 +16291,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR022")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -16309,7 +16309,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "da5d53e1-7d76-415d-8830-6796a8ec1ed5")
-		(property "Reference" "J9"
+		(property "Reference" "J6"
 			(at 266.7 45.7201 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16396,7 +16396,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "J9")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -16414,7 +16414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dab0481f-80e3-4298-9a9a-f6c1e3a70298")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR043"
 			(at 64.77 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -16475,7 +16475,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR050")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -16706,7 +16706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e55f453c-c4d5-4ed1-9b53-64b90b5a6698")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR063"
 			(at 224.79 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -16767,7 +16767,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR065")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -16785,7 +16785,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8d33127-fc10-486e-a772-f6c1e63ac37c")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR066"
 			(at 234.95 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -16846,7 +16846,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR012")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -16864,7 +16864,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec8f9f9f-1f30-41b0-8bac-883594101911")
-		(property "Reference" "C27"
+		(property "Reference" "C13"
 			(at 57.15 153.6635 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16939,7 +16939,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C27")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -16957,7 +16957,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed16607b-6b15-419b-9440-29816e83b7b3")
-		(property "Reference" "C37"
+		(property "Reference" "C9"
 			(at 39.878 132.588 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17032,7 +17032,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C37")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -17050,7 +17050,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "edcb54a9-d71e-4fcb-9ad1-6366d2e988c7")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR031"
 			(at 29.21 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -17110,7 +17110,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR036")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -17128,7 +17128,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee46d02c-cb4d-49c2-a76e-b6d64fbc6d87")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR042"
 			(at 64.77 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -17189,7 +17189,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR046")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -17206,7 +17206,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "eee1827b-0656-425c-9ae9-c99b89434898")
-		(property "Reference" "R37"
+		(property "Reference" "R22"
 			(at 243.586 48.006 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17434,7 +17434,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "R37")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -17452,7 +17452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f1c0f1e7-d12d-42b5-94be-7e8c61090677")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR046"
 			(at 67.31 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -17513,7 +17513,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR041")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -17531,7 +17531,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f430e9fc-7c7e-483e-998b-6b5f8230d98f")
-		(property "Reference" "C36"
+		(property "Reference" "C16"
 			(at 69.596 126.238 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17804,7 +17804,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C36")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -17822,7 +17822,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4991dac-2b0b-4603-be96-cdabea9589f1")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR033"
 			(at 38.1 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -17883,7 +17883,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR026")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -17900,7 +17900,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f8769317-ae92-41c8-9fc1-f501cdef84f7")
-		(property "Reference" "C2"
+		(property "Reference" "C22"
 			(at 181.61 89.408 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17974,7 +17974,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C2")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -17992,7 +17992,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f8a52e04-9b52-453f-857f-2ed86f261c87")
-		(property "Reference" "C13"
+		(property "Reference" "C8"
 			(at 37.338 177.038 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18067,7 +18067,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C13")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -18085,7 +18085,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9b196c2-015d-4e0e-a11d-d950c71db837")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR062"
 			(at 222.25 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -18146,7 +18146,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "#PWR011")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -18163,7 +18163,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fd626182-b8ea-4c5d-b9fc-e8b3ffcec636")
-		(property "Reference" "C38"
+		(property "Reference" "C20"
 			(at 79.248 105.664 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18447,7 +18447,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C38")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -18465,7 +18465,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fe2d3101-b4e5-48a2-8759-a4d83cb28242")
-		(property "Reference" "C4"
+		(property "Reference" "C28"
 			(at 217.424 65.278 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18540,7 +18540,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "C4")
+					(reference "C28")
 					(unit 1)
 				)
 			)

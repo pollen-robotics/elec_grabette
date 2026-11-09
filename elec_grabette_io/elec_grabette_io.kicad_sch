@@ -687,9 +687,29 @@
 		)
 		(uuid "17557bfb-b327-4e2f-9d6e-eae16c3f158f")
 	)
+	(wire
+		(pts
+			(xy 113.03 113.03) (xy 113.03 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ed2be06-dc66-4dad-9bd1-aeba3e1bea21")
+	)
+	(wire
+		(pts
+			(xy 115.57 113.03) (xy 113.03 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f01b636-5ba6-493b-8227-13c9c327961e")
+	)
 	(bus
 		(pts
-			(xy 182.88 133.35) (xy 190.5 133.35)
+			(xy 182.88 133.35) (xy 189.23 133.35)
 		)
 		(stroke
 			(width 0)
@@ -719,7 +739,7 @@
 	)
 	(bus
 		(pts
-			(xy 176.53 67.31) (xy 190.5 67.31)
+			(xy 176.53 67.31) (xy 189.23 67.31)
 		)
 		(stroke
 			(width 0)
@@ -736,6 +756,16 @@
 			(type default)
 		)
 		(uuid "57c30ba6-f4a3-4850-82d3-4faa0e1260af")
+	)
+	(wire
+		(pts
+			(xy 113.03 124.46) (xy 115.57 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "632e0ed5-4c6f-443c-ae49-234db02bc5b3")
 	)
 	(bus
 		(pts
@@ -759,7 +789,7 @@
 	)
 	(bus
 		(pts
-			(xy 182.88 111.76) (xy 190.5 111.76)
+			(xy 182.88 111.76) (xy 189.23 111.76)
 		)
 		(stroke
 			(width 0)
@@ -839,7 +869,7 @@
 	)
 	(bus
 		(pts
-			(xy 176.53 93.98) (xy 190.5 93.98)
+			(xy 176.53 93.98) (xy 189.23 93.98)
 		)
 		(stroke
 			(width 0)
@@ -849,7 +879,7 @@
 	)
 	(bus
 		(pts
-			(xy 176.53 63.5) (xy 190.5 63.5)
+			(xy 176.53 63.5) (xy 189.23 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3133,7 +3163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce52c35e-6255-42f6-be3c-c139515e9780")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR01"
 			(at 125.73 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -3194,7 +3224,7 @@
 		(instances
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976"
-					(reference "#PWR0101")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -3836,7 +3866,7 @@
 		)
 	)
 	(sheet
-		(at 190.5 87.63)
+		(at 189.23 87.63)
 		(size 22.86 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3851,7 +3881,7 @@
 		)
 		(uuid "0c96912b-e4c1-4c95-9b89-2df53fe3745d")
 		(property "Sheetname" "Audio"
-			(at 190.5 86.36 0)
+			(at 189.23 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3862,7 +3892,7 @@
 			)
 		)
 		(property "Sheetfile" "audio.kicad_sch"
-			(at 190.5 118.9 0)
+			(at 189.23 118.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3874,7 +3904,7 @@
 			)
 		)
 		(pin "{GPIO}" bidirectional
-			(at 190.5 93.98 180)
+			(at 189.23 93.98 180)
 			(uuid "53ec4aa1-a0af-4145-98ac-8969ba6500d8")
 			(effects
 				(font
@@ -3978,7 +4008,7 @@
 		)
 	)
 	(sheet
-		(at 190.5 125.73)
+		(at 189.23 125.73)
 		(size 22.86 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3993,7 +4023,7 @@
 		)
 		(uuid "6d5f3336-be7f-4ca2-b8b7-6b4ab5309398")
 		(property "Sheetname" "Sensors"
-			(at 190.5 124.46 0)
+			(at 189.23 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4004,7 +4034,7 @@
 			)
 		)
 		(property "Sheetfile" "sensors.kicad_sch"
-			(at 190.5 157 0)
+			(at 189.23 157 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4016,7 +4046,7 @@
 			)
 		)
 		(pin "{GPIO}" bidirectional
-			(at 190.5 133.35 180)
+			(at 189.23 133.35 180)
 			(uuid "db64010d-f903-4934-8d76-54f1ae252edd")
 			(effects
 				(font
@@ -4034,7 +4064,7 @@
 		)
 	)
 	(sheet
-		(at 190.5 57.15)
+		(at 189.23 57.15)
 		(size 25.4 25.16)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4049,7 +4079,7 @@
 		)
 		(uuid "d32e5169-e270-493a-bbc4-159e764977b8")
 		(property "Sheetname" "Camera and IO"
-			(at 191.19 55.88 0)
+			(at 189.92 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4060,7 +4090,7 @@
 			)
 		)
 		(property "Sheetfile" "camera.kicad_sch"
-			(at 191.19 88.42 0)
+			(at 189.92 88.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4072,7 +4102,7 @@
 			)
 		)
 		(pin "{CAM0}" bidirectional
-			(at 190.5 63.5 180)
+			(at 189.23 63.5 180)
 			(uuid "ee6c1d86-9037-45a6-b61f-eaea44f3fa3d")
 			(effects
 				(font
@@ -4082,7 +4112,7 @@
 			)
 		)
 		(pin "{CAM1}" bidirectional
-			(at 190.5 67.31 180)
+			(at 189.23 67.31 180)
 			(uuid "1d87f087-8dc3-4c1d-99fa-602da45734ce")
 			(effects
 				(font
@@ -4100,7 +4130,7 @@
 		)
 	)
 	(sheet
-		(at 190.5 105.41)
+		(at 189.23 105.41)
 		(size 22.86 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4115,7 +4145,7 @@
 		)
 		(uuid "dd8df41a-ac53-4462-a3fb-30e558be4c8a")
 		(property "Sheetname" "Dynamixel"
-			(at 190.5 104.14 0)
+			(at 189.23 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4126,7 +4156,7 @@
 			)
 		)
 		(property "Sheetfile" "dynamixel.kicad_sch"
-			(at 190.5 136.68 0)
+			(at 189.23 136.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4138,7 +4168,7 @@
 			)
 		)
 		(pin "{GPIO}" bidirectional
-			(at 190.5 111.76 180)
+			(at 189.23 111.76 180)
 			(uuid "d9be195b-ee81-4ef7-b443-de7e5329e315")
 			(effects
 				(font
@@ -4221,6 +4251,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "3V3_from_CM4" input
+			(at 115.57 124.46 180)
+			(uuid "c6ce3118-5f2b-418c-8eab-9aa2bd054993")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -4317,6 +4357,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "3V3_from_CM4" input
+			(at 115.57 113.03 180)
+			(uuid "9c41a4ee-1259-488d-8f27-dcc074303fe4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
