@@ -899,6 +899,24 @@
           "label": "JLCPCB Part URL",
           "name": "JLCPCB Part URL",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Part Description",
+          "name": "Part Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Field8",
+          "name": "Field8",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Field6",
+          "name": "Field6",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -1000,6 +1018,14 @@
         "MRightPWM_V",
         "MRightPWM_W"
       ],
+      "SD": [
+        "SD_CLK",
+        "SD_CMD",
+        "SD_DAT0",
+        "SD_DAT1",
+        "SD_DAT2",
+        "SD_DAT3"
+      ],
       "USB": [
         "D_P",
         "D_N"
@@ -1065,7 +1091,7 @@
         "uuid": "bc05f5da-608c-4912-90e4-36b13d989976"
       }
     ],
-    "used_designators": "#FLG1-10,#FLG15,#PWR1-201,#PWR260,#PWR263,#PWR437-441,#PWR517-521,C1-87,C121,C188-189,D1-25,FB1-5,FID1-3,G1,H1-6,J1-18,L1-18,MK1,Q1-4,R1-99,R214,SW1-3,TH1-2,TP1-18,TP38,U1-19,U36,Y1-2",
+    "used_designators": "#FLG1-10,#FLG15,#PWR1-212,#PWR260,#PWR263,#PWR437-441,#PWR517-521,C1-91,C121,C188-189,D1-25,FB1-5,FID1-3,G1,H1-6,J1-26,L1-18,MK1,Q1-4,R1-100,R214,SW1-3,TH1-2,TP1-18,TP38,U1-20,U36,Y1-2",
     "variants": []
   },
   "sheets": [
@@ -1091,11 +1117,11 @@
     ],
     [
       "f79b194a-080a-4f99-99db-c9d17604bfa0",
-      "CM4"
+      "CM4 GPIO"
     ],
     [
       "d32e5169-e270-493a-bbc4-159e764977b8",
-      "Camera and IO"
+      "CM4 High Speed"
     ],
     [
       "537b0dff-f1a9-47ce-8152-497fade9226c",

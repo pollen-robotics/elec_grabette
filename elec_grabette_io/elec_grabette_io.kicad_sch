@@ -614,6 +614,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 153.924 79.756)
+		(end 166.624 84.836)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "e82e5412-619a-41d9-b47f-4ae11cb3d523")
+	)
 	(text "Fiducials"
 		(exclude_from_sim no)
 		(at 99.568 172.72 0)
@@ -636,6 +648,16 @@
 		)
 		(uuid "396a4260-a2a2-4915-8e46-e45b012de968")
 	)
+	(text "Cameras"
+		(exclude_from_sim no)
+		(at 160.02 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "43db520b-0d9c-443b-93c9-ae897db11120")
+	)
 	(text "\"Grabette IO\" is a CM4 IO board made for Grabette the data \ncollecting glove. It gathers SD card, IMU, battery management, \naudio…"
 		(exclude_from_sim no)
 		(at 26.924 33.274 0)
@@ -654,13 +676,25 @@
 		(uuid "05dc2da2-50ce-45ec-a4bb-da8feb2a424a")
 	)
 	(junction
-		(at 182.88 111.76)
+		(at 177.8 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "77454ff0-b8f8-4783-b6f4-d9709916b954")
+		(uuid "684a9743-acc1-49bd-a945-7824bb7804ad")
 	)
 	(junction
-		(at 182.88 127)
+		(at 111.76 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "81168d8a-8927-4712-a27f-7456085ebc38")
+	)
+	(junction
+		(at 177.8 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9f4794e0-e198-4486-a5b2-aa992fa08454")
+	)
+	(junction
+		(at 177.8 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a2d98097-f402-42f6-a7c8-6d29006d69aa")
@@ -671,15 +705,19 @@
 		(color 0 0 0 0)
 		(uuid "f58e37a1-77ce-4cb3-88e3-c23a869a599b")
 	)
-	(junction
-		(at 182.88 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fe79ea65-a3bc-47b1-9cde-6ea815dda87c")
+	(bus
+		(pts
+			(xy 177.8 93.98) (xy 177.8 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00062f44-09c5-49ac-b1f7-f572ebe75177")
 	)
 	(wire
 		(pts
-			(xy 104.14 129.54) (xy 115.57 129.54)
+			(xy 106.68 129.54) (xy 115.57 129.54)
 		)
 		(stroke
 			(width 0)
@@ -709,7 +747,7 @@
 	)
 	(bus
 		(pts
-			(xy 182.88 133.35) (xy 189.23 133.35)
+			(xy 177.8 133.35) (xy 184.15 133.35)
 		)
 		(stroke
 			(width 0)
@@ -719,7 +757,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 132.08) (xy 115.57 132.08)
+			(xy 106.68 132.08) (xy 115.57 132.08)
 		)
 		(stroke
 			(width 0)
@@ -739,23 +777,43 @@
 	)
 	(bus
 		(pts
-			(xy 176.53 67.31) (xy 189.23 67.31)
+			(xy 106.68 88.9) (xy 115.57 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3c27db0a-ff1c-4cc5-9752-76ccc5134c4f")
+		(uuid "367905c4-64a3-40bf-a052-cc13a6c066b0")
 	)
 	(bus
 		(pts
-			(xy 104.14 106.68) (xy 115.57 106.68)
+			(xy 157.48 93.98) (xy 157.48 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "57c30ba6-f4a3-4850-82d3-4faa0e1260af")
+		(uuid "478a7cfb-5127-4096-a569-683eca533796")
+	)
+	(bus
+		(pts
+			(xy 115.57 100.33) (xy 111.76 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51c0fae3-c696-47e7-b4a7-4cac525236fc")
+	)
+	(bus
+		(pts
+			(xy 170.18 107.95) (xy 177.8 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b3ebb60-7ac9-4055-a395-10d25effab9b")
 	)
 	(wire
 		(pts
@@ -769,7 +827,7 @@
 	)
 	(bus
 		(pts
-			(xy 182.88 111.76) (xy 182.88 127)
+			(xy 177.8 111.76) (xy 177.8 127)
 		)
 		(stroke
 			(width 0)
@@ -779,7 +837,7 @@
 	)
 	(bus
 		(pts
-			(xy 176.53 127) (xy 182.88 127)
+			(xy 170.18 127) (xy 177.8 127)
 		)
 		(stroke
 			(width 0)
@@ -789,7 +847,17 @@
 	)
 	(bus
 		(pts
-			(xy 182.88 111.76) (xy 189.23 111.76)
+			(xy 111.76 100.33) (xy 111.76 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a11e89f-d6d6-4c35-b22b-4a58a41dc9fb")
+	)
+	(bus
+		(pts
+			(xy 177.8 111.76) (xy 184.15 111.76)
 		)
 		(stroke
 			(width 0)
@@ -839,23 +907,33 @@
 	)
 	(bus
 		(pts
-			(xy 182.88 93.98) (xy 182.88 111.76)
+			(xy 106.68 86.36) (xy 115.57 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c4a6eb45-17f2-4a7f-ab21-c3e7a16bf180")
+		(uuid "ba291dae-5d36-4916-a003-8af7c93e6343")
 	)
 	(bus
 		(pts
-			(xy 182.88 127) (xy 182.88 133.35)
+			(xy 177.8 133.35) (xy 177.8 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c6ea5a79-7675-4d34-b863-57b6983440f2")
+	)
+	(bus
+		(pts
+			(xy 163.83 93.98) (xy 163.83 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d054892a-9b5a-46d0-89c7-6fea4e64b845")
 	)
 	(wire
 		(pts
@@ -869,33 +947,13 @@
 	)
 	(bus
 		(pts
-			(xy 176.53 93.98) (xy 189.23 93.98)
+			(xy 184.15 93.98) (xy 177.8 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e2b93145-1d8b-4074-9543-4bc9e538e627")
-	)
-	(bus
-		(pts
-			(xy 176.53 63.5) (xy 189.23 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9fa02b2-95e1-480b-91fb-15dd1f83c300")
-	)
-	(bus
-		(pts
-			(xy 104.14 109.22) (xy 115.57 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa639966-a061-422c-90f5-564ad3e9f1e7")
+		(uuid "fbc4ca4c-ad9e-4d26-b970-0e269ab0247e")
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
@@ -3866,7 +3924,7 @@
 		)
 	)
 	(sheet
-		(at 189.23 87.63)
+		(at 184.15 87.63)
 		(size 22.86 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3881,7 +3939,7 @@
 		)
 		(uuid "0c96912b-e4c1-4c95-9b89-2df53fe3745d")
 		(property "Sheetname" "Audio"
-			(at 189.23 86.36 0)
+			(at 184.15 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3892,7 +3950,7 @@
 			)
 		)
 		(property "Sheetfile" "audio.kicad_sch"
-			(at 189.23 118.9 0)
+			(at 184.15 118.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3904,7 +3962,7 @@
 			)
 		)
 		(pin "{GPIO}" bidirectional
-			(at 189.23 93.98 180)
+			(at 184.15 93.98 180)
 			(uuid "53ec4aa1-a0af-4145-98ac-8969ba6500d8")
 			(effects
 				(font
@@ -3922,8 +3980,8 @@
 		)
 	)
 	(sheet
-		(at 81.28 99.06)
-		(size 22.86 40.64)
+		(at 88.9 81.28)
+		(size 17.78 57.15)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3937,7 +3995,7 @@
 		)
 		(uuid "537b0dff-f1a9-47ce-8152-497fade9226c")
 		(property "Sheetname" "USB switch + hub"
-			(at 81.28 97.79 0)
+			(at 88.9 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3948,7 +4006,7 @@
 			)
 		)
 		(property "Sheetfile" "usb_switch_hub.kicad_sch"
-			(at 81.28 113.03 0)
+			(at 88.9 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3960,7 +4018,7 @@
 			)
 		)
 		(pin "USB_CM4{USB}" bidirectional
-			(at 104.14 106.68 0)
+			(at 106.68 86.36 0)
 			(uuid "3ba2a133-32f2-461c-9f83-633b382b23d7")
 			(effects
 				(font
@@ -3970,7 +4028,7 @@
 			)
 		)
 		(pin "{USB_CTRL}" bidirectional
-			(at 104.14 109.22 0)
+			(at 106.68 88.9 0)
 			(uuid "6fda38a8-ba84-4ce2-960e-d01522ace051")
 			(effects
 				(font
@@ -3980,7 +4038,7 @@
 			)
 		)
 		(pin "CC1" input
-			(at 104.14 129.54 0)
+			(at 106.68 129.54 0)
 			(uuid "c5d21cd5-0ba3-495b-aac0-f32cc166e1a5")
 			(effects
 				(font
@@ -3990,7 +4048,7 @@
 			)
 		)
 		(pin "CC2" input
-			(at 104.14 132.08 0)
+			(at 106.68 132.08 0)
 			(uuid "38137cb7-4e3e-445d-9a4e-5dacfdef20eb")
 			(effects
 				(font
@@ -4008,7 +4066,7 @@
 		)
 	)
 	(sheet
-		(at 189.23 125.73)
+		(at 184.15 125.73)
 		(size 22.86 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4023,7 +4081,7 @@
 		)
 		(uuid "6d5f3336-be7f-4ca2-b8b7-6b4ab5309398")
 		(property "Sheetname" "Sensors"
-			(at 189.23 124.46 0)
+			(at 184.15 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4034,7 +4092,7 @@
 			)
 		)
 		(property "Sheetfile" "sensors.kicad_sch"
-			(at 189.23 157 0)
+			(at 184.15 157 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4046,7 +4104,7 @@
 			)
 		)
 		(pin "{GPIO}" bidirectional
-			(at 189.23 133.35 180)
+			(at 184.15 133.35 180)
 			(uuid "db64010d-f903-4934-8d76-54f1ae252edd")
 			(effects
 				(font
@@ -4064,8 +4122,8 @@
 		)
 	)
 	(sheet
-		(at 189.23 57.15)
-		(size 25.4 25.16)
+		(at 115.57 68.82)
+		(size 54.61 25.16)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4078,8 +4136,8 @@
 			(color 0 0 0 0)
 		)
 		(uuid "d32e5169-e270-493a-bbc4-159e764977b8")
-		(property "Sheetname" "Camera and IO"
-			(at 189.92 55.88 0)
+		(property "Sheetname" "CM4 High Speed"
+			(at 116.26 67.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4089,8 +4147,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "camera.kicad_sch"
-			(at 189.92 88.42 0)
+		(property "Sheetfile" "cm4_high_speed.kicad_sch"
+			(at 116.26 100.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4101,9 +4159,19 @@
 				(justify left top)
 			)
 		)
-		(pin "{CAM0}" bidirectional
-			(at 189.23 63.5 180)
-			(uuid "ee6c1d86-9037-45a6-b61f-eaea44f3fa3d")
+		(pin "USB_CM4{USB}" bidirectional
+			(at 115.57 86.36 180)
+			(uuid "84cb2562-cb8d-4770-b4f7-5507df000acf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{USB_CTRL}" bidirectional
+			(at 115.57 88.9 180)
+			(uuid "d9312d1e-2877-4e69-8d80-404c5852e0c9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4112,8 +4180,18 @@
 			)
 		)
 		(pin "{CAM1}" bidirectional
-			(at 189.23 67.31 180)
-			(uuid "1d87f087-8dc3-4c1d-99fa-602da45734ce")
+			(at 163.83 93.98 270)
+			(uuid "259211f6-dd3b-4764-9db0-b29a43a6c3de")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{CAM0}" bidirectional
+			(at 157.48 93.98 270)
+			(uuid "d1604434-2d2c-40cf-8dd8-ef5bc5a4a157")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4130,7 +4208,7 @@
 		)
 	)
 	(sheet
-		(at 189.23 105.41)
+		(at 184.15 105.41)
 		(size 22.86 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4145,7 +4223,7 @@
 		)
 		(uuid "dd8df41a-ac53-4462-a3fb-30e558be4c8a")
 		(property "Sheetname" "Dynamixel"
-			(at 189.23 104.14 0)
+			(at 184.15 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4156,7 +4234,7 @@
 			)
 		)
 		(property "Sheetfile" "dynamixel.kicad_sch"
-			(at 189.23 136.68 0)
+			(at 184.15 136.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4168,7 +4246,7 @@
 			)
 		)
 		(pin "{GPIO}" bidirectional
-			(at 189.23 111.76 180)
+			(at 184.15 111.76 180)
 			(uuid "d9be195b-ee81-4ef7-b443-de7e5329e315")
 			(effects
 				(font
@@ -4187,7 +4265,7 @@
 	)
 	(sheet
 		(at 115.57 121.92)
-		(size 60.96 17.78)
+		(size 54.61 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4244,7 +4322,7 @@
 			)
 		)
 		(pin "{GPIO}" bidirectional
-			(at 176.53 127 0)
+			(at 170.18 127 0)
 			(uuid "f42ac5e8-a2e4-493e-88d3-4d57d4221457")
 			(effects
 				(font
@@ -4272,8 +4350,8 @@
 		)
 	)
 	(sheet
-		(at 115.57 57.15)
-		(size 60.96 58.42)
+		(at 115.57 95.25)
+		(size 54.61 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4286,8 +4364,8 @@
 			(color 0 0 0 0)
 		)
 		(uuid "f79b194a-080a-4f99-99db-c9d17604bfa0")
-		(property "Sheetname" "CM4"
-			(at 115.57 55.88 0)
+		(property "Sheetname" "CM4 GPIO"
+			(at 116.586 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4297,8 +4375,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "cm4.kicad_sch"
-			(at 115.57 88.42 0)
+		(property "Sheetfile" "cm4_gpio.kicad_sch"
+			(at 115.57 126.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4309,48 +4387,8 @@
 				(justify left top)
 			)
 		)
-		(pin "{CAM0}" bidirectional
-			(at 176.53 63.5 0)
-			(uuid "d029185c-a636-4b90-a1e6-badeba4892b8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "{CAM1}" bidirectional
-			(at 176.53 67.31 0)
-			(uuid "0ccef396-cc75-456f-a066-58f500808ced")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "USB_CM4{USB}" bidirectional
-			(at 115.57 106.68 180)
-			(uuid "b95b0097-3cef-4023-b2f7-369f9bc1b408")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "{USB_CTRL}" bidirectional
-			(at 115.57 109.22 180)
-			(uuid "1c3369f5-b4c0-41e0-bf9c-8d6062978970")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "{GPIO}" bidirectional
-			(at 176.53 93.98 0)
+			(at 170.18 107.95 0)
 			(uuid "c77185bd-5494-4529-b4c2-d2643aaafe4e")
 			(effects
 				(font
@@ -4367,6 +4405,36 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "{USB_CTRL}" bidirectional
+			(at 115.57 100.33 180)
+			(uuid "023034c5-012d-4e7a-93cd-f154d9413ad9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{CAM1}" bidirectional
+			(at 163.83 95.25 90)
+			(uuid "427f82ef-fa7d-4c64-b879-cfd8bb42efea")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "{CAM0}" bidirectional
+			(at 157.48 95.25 90)
+			(uuid "a4e5c764-4875-48ec-86fe-d2cc08410161")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
