@@ -4266,8 +4266,8 @@
 		)
 	)
 	(rectangle
-		(start 90.17 180.34)
-		(end 115.316 190.754)
+		(start 100.076 182.88)
+		(end 125.222 193.294)
 		(stroke
 			(width 0)
 			(type default)
@@ -4279,7 +4279,7 @@
 	)
 	(text "1"
 		(exclude_from_sim no)
-		(at 96.52 189.23 0)
+		(at 106.426 191.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4311,7 +4311,7 @@
 	)
 	(text "0"
 		(exclude_from_sim no)
-		(at 96.52 185.928 0)
+		(at 106.426 188.468 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4332,7 +4332,7 @@
 	)
 	(text "run (hub)"
 		(exclude_from_sim no)
-		(at 109.22 185.928 0)
+		(at 119.126 188.468 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4342,7 +4342,7 @@
 	)
 	(text "USB_OTG_ID"
 		(exclude_from_sim no)
-		(at 96.266 182.372 0)
+		(at 106.172 184.912 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4382,7 +4382,7 @@
 	)
 	(text "CM4 BOOT Switch"
 		(exclude_from_sim no)
-		(at 128.016 205.74 0)
+		(at 128.524 215.646 0)
 		(effects
 			(font
 				(size 2.5 2.5)
@@ -4394,7 +4394,7 @@
 	)
 	(text "flash"
 		(exclude_from_sim no)
-		(at 109.22 189.23 0)
+		(at 119.126 191.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4437,7 +4437,7 @@
 	)
 	(text "Function"
 		(exclude_from_sim no)
-		(at 109.22 182.372 0)
+		(at 119.126 184.912 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5255,7 +5255,7 @@
 	)
 	(polyline
 		(pts
-			(xy 90.17 183.896) (xy 115.316 183.896)
+			(xy 100.076 186.436) (xy 125.222 186.436)
 		)
 		(stroke
 			(width 0)
@@ -5905,7 +5905,7 @@
 	)
 	(polyline
 		(pts
-			(xy 103.124 180.34) (xy 103.124 190.754)
+			(xy 113.03 182.88) (xy 113.03 193.294)
 		)
 		(stroke
 			(width 0)
@@ -6685,7 +6685,7 @@
 	)
 	(polyline
 		(pts
-			(xy 90.17 187.198) (xy 115.316 187.198)
+			(xy 100.076 189.738) (xy 125.222 189.738)
 		)
 		(stroke
 			(width 0)
@@ -7985,6 +7985,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 184.15 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 184.15 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 184.15 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8c4adf7b-46a1-468a-b775-8e035aaf9079")
 		)
@@ -8165,6 +8198,39 @@
 		)
 		(property "Mouser Price/Stock" ""
 			(at 276.86 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 276.86 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 276.86 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 276.86 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8466,6 +8532,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 213.36 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 213.36 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 213.36 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "535ff8b0-a07a-4e40-8d3a-5116cbaab86c")
 		)
@@ -8725,6 +8824,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 101.6 242.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 101.6 242.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 101.6 242.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 101.6 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -9038,6 +9170,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 259.08 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 259.08 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 259.08 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c6426cd5-3fe6-43df-893f-b50f5e9d0395")
 		)
@@ -9048,6 +9213,208 @@
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/537b0dff-f1a9-47ce-8152-497fade9226c"
 					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
+		(at 367.03 148.59 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1c8c1d19-170d-429b-a34c-f3f495defd3c")
+		(property "Reference" "J17"
+			(at 357.632 129.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USB-C"
+			(at 370.332 129.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library_Pollen:USB-C-SMD_TYPE-C-6PIN-2MD-073 Shou Han - C2765186"
+			(at 363.22 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+			(at 363.22 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 367.03 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2765186"
+			(at 367.03 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "'FT Position Offset" ""
+			(at 367.03 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field7" ""
+			(at 367.03 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 367.03 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 367.03 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C2765186"
+			(at 367.03 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 367.03 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "B8"
+			(uuid "ef8b546d-6e2a-4b7e-bfb7-66d295748a03")
+		)
+		(pin "A9"
+			(uuid "db4007c5-a4f6-4d6d-a92e-21ac6b7ba4f9")
+		)
+		(pin "A6"
+			(uuid "bae9f676-95d2-46ab-916f-43e53d33fea1")
+		)
+		(pin "A7"
+			(uuid "c65325cb-baf6-444f-a62a-006756fad9fc")
+		)
+		(pin "A4"
+			(uuid "a318f348-f772-4dde-b5be-6279fc0ed2ff")
+		)
+		(pin "B12"
+			(uuid "27ad4337-6c1f-4d3e-8f10-fec20d524985")
+		)
+		(pin "A12"
+			(uuid "bf5e916d-4115-4730-80ca-720c8538ebb5")
+		)
+		(pin "A1"
+			(uuid "e3abce8d-d8af-4476-83d5-6166e4beea85")
+		)
+		(pin "A5"
+			(uuid "4023d95b-2223-4e39-9a5f-66c649216bf4")
+		)
+		(pin "A8"
+			(uuid "aacb3905-a920-4a67-bcdc-28702ab5e0f4")
+		)
+		(pin "B5"
+			(uuid "b5773518-78c1-4bf0-928b-45dbe035d051")
+		)
+		(pin "B4"
+			(uuid "c9f73088-aa94-45a4-8cfe-2174b2564c1d")
+		)
+		(pin "B9"
+			(uuid "3f6e9fd1-fc06-43ed-b1c9-3248fb1debca")
+		)
+		(pin "SH"
+			(uuid "7e243fc1-e4ac-4a7c-bf2a-03eb3a8d31f9")
+		)
+		(pin "B1"
+			(uuid "e8094a32-8efb-4173-9e84-3ec3329b21b6")
+		)
+		(pin "B6"
+			(uuid "e92f124d-5d53-4dd3-ad76-db48341be24f")
+		)
+		(pin "B7"
+			(uuid "bfc03373-7431-4b13-9da8-124d9ed6c4fa")
+		)
+		(instances
+			(project "elec_grabette_io"
+				(path "/bc05f5da-608c-4912-90e4-36b13d989976/537b0dff-f1a9-47ce-8152-497fade9226c"
+					(reference "J17")
 					(unit 1)
 				)
 			)
@@ -9120,6 +9487,39 @@
 			)
 		)
 		(property "LCSC Part" "C2837066"
+			(at 123.19 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 123.19 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 123.19 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 123.19 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -9389,6 +9789,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 344.17 190.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 344.17 190.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 344.17 190.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "caad1b1f-ad70-4f71-a3c8-992df3b49782")
 		)
@@ -9581,6 +10014,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 243.84 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 243.84 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 243.84 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 243.84 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -9860,6 +10326,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 261.62 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 261.62 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 261.62 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 261.62 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -10265,6 +10764,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 233.68 257.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 233.68 257.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 233.68 257.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f37bc1fc-a26f-4c02-b48b-199b9589eaa3")
 		)
@@ -10527,6 +11059,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 240.03 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 240.03 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 240.03 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 240.03 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -10808,6 +11373,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 177.8 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 177.8 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 177.8 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "658672b7-c41b-4a76-bc19-bfc48751da83")
 		)
@@ -11056,6 +11654,39 @@
 			)
 		)
 		(property "LCSC Part" "C114756"
+			(at 344.17 193.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 344.17 193.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 344.17 193.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 344.17 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -11324,6 +11955,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 344.17 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 344.17 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 344.17 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e5f10802-37ea-424d-af74-832fcb89e503")
 		)
@@ -11334,175 +11998,6 @@
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/537b0dff-f1a9-47ce-8152-497fade9226c"
 					(reference "R95")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
-		(at 367.03 200.66 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "482414c7-ec63-46db-8fff-60a18b1768ef")
-		(property "Reference" "J18"
-			(at 357.632 181.61 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "USB-C Rec. Vert."
-			(at 370.332 181.61 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library_Pollen:USB-C_16p_vert_Shou-Han_TYPE-C 16P LTH6.8 - C5187468"
-			(at 363.22 200.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 363.22 200.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
-			(at 367.03 200.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C5187468"
-			(at 367.03 200.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "'FT Position Offset" ""
-			(at 367.03 200.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field7" ""
-			(at 367.03 200.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C5187468"
-			(at 367.03 200.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "B8"
-			(uuid "a3dd4dd3-1dfb-4a02-bbae-2ffbc8b40654")
-		)
-		(pin "A9"
-			(uuid "3184352a-c296-4076-bfdd-c73916eb6f80")
-		)
-		(pin "A6"
-			(uuid "813c2360-cd2a-4e03-942b-5a0cf138bf6b")
-		)
-		(pin "A7"
-			(uuid "1d31cca4-ee8c-4088-ad0f-ca7b194627af")
-		)
-		(pin "A4"
-			(uuid "e4d68122-20ae-4fdc-bcd2-ef45b4594b1e")
-		)
-		(pin "B12"
-			(uuid "aba87569-1cdf-4eac-b7f3-9b560d8324ed")
-		)
-		(pin "A12"
-			(uuid "c96b06d9-4fdc-46e9-b298-18b26203e84d")
-		)
-		(pin "A1"
-			(uuid "c379f456-fd70-4d3c-9494-e47b7e55ef94")
-		)
-		(pin "A5"
-			(uuid "a3b4f859-4d4b-461f-98d0-95a04204b2f1")
-		)
-		(pin "A8"
-			(uuid "fdea19c3-a8d0-4589-9d7a-8caf7837d06b")
-		)
-		(pin "B5"
-			(uuid "42044ac6-92f7-4ab3-970c-3cf83f44d210")
-		)
-		(pin "B4"
-			(uuid "f4d24f61-1f92-457a-8d64-ef64355cf198")
-		)
-		(pin "B9"
-			(uuid "02f1be4a-0477-41d2-b8da-5bef74bd062e")
-		)
-		(pin "SH"
-			(uuid "02c68b3b-cccb-454b-9f05-b6d10d327a35")
-		)
-		(pin "B1"
-			(uuid "92d8b3c8-0d01-409c-832d-c0f1db657442")
-		)
-		(pin "B6"
-			(uuid "1ba84a76-9677-4bdc-9e11-5dd8cf707a8b")
-		)
-		(pin "B7"
-			(uuid "c31b7d6e-0bd0-4b11-b702-700ed00b5510")
-		)
-		(instances
-			(project "elec_grabette_io"
-				(path "/bc05f5da-608c-4912-90e4-36b13d989976/537b0dff-f1a9-47ce-8152-497fade9226c"
-					(reference "J18")
 					(unit 1)
 				)
 			)
@@ -11719,6 +12214,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 270.51 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 270.51 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 270.51 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 270.51 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -12022,6 +12550,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 198.12 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 198.12 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 198.12 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "14"
 			(uuid "0a0fea3e-9e64-4d4c-82a0-bda303925e2e")
 		)
@@ -12283,6 +12844,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 307.34 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 307.34 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 307.34 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a10cfff3-83a5-46c6-b01e-82958b01473f")
 		)
@@ -12487,6 +13081,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 337.82 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 337.82 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 337.82 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 337.82 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -12703,6 +13330,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 125.73 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 125.73 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 125.73 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ab3d9845-2d88-4040-9016-7d3f5e842c42")
 		)
@@ -12907,6 +13567,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 325.12 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 325.12 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 325.12 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 325.12 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -13148,6 +13841,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 262.89 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 262.89 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 262.89 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3a75c35c-0c79-4c4c-a16b-6bc7835c5b2f")
 		)
@@ -13339,6 +14065,39 @@
 			)
 		)
 		(property "LCSC Part" "C25744"
+			(at 111.76 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 111.76 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 111.76 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 111.76 236.22 90)
 			(hide yes)
 			(show_name no)
@@ -13552,6 +14311,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 311.15 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 311.15 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 311.15 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 311.15 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -14070,6 +14862,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 207.01 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 207.01 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 207.01 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1d457f6e-dc88-443e-abd1-be056b4965b3")
 		)
@@ -14320,6 +15145,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 229.87 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 229.87 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 229.87 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7d171d61-64c8-48a0-bf6e-e537abaea1bb")
 		)
@@ -14543,6 +15401,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 267.97 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 267.97 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 267.97 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 267.97 201.93 90)
 			(hide yes)
 			(show_name no)
@@ -15106,6 +15997,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 256.54 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 256.54 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 256.54 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3d92e538-8bc0-4a0e-bd81-37242d35da07")
 		)
@@ -15187,6 +16111,39 @@
 			)
 		)
 		(property "LCSC Part" "C51386"
+			(at 290.83 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 290.83 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 290.83 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 290.83 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -15522,6 +16479,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 232.41 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 232.41 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 232.41 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4306756b-82dd-4de4-87e0-936f4719ecd3")
 		)
@@ -15770,6 +16760,39 @@
 			)
 		)
 		(property "LCSC Part" "C114756"
+			(at 344.17 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 344.17 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 344.17 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 344.17 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -16054,7 +17077,7 @@
 				)
 			)
 		)
-		(property "Value" "USB-C Rec. Vert."
+		(property "Value" "USB-C"
 			(at 370.332 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16064,7 +17087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library_Pollen:USB-C_16p_vert_Shou-Han_TYPE-C 16P LTH6.8 - C5187468"
+		(property "Footprint" "Library_Pollen:USB-C-SMD_TYPE-C-6PIN-2MD-073 Shou Han - C2765186"
 			(at 363.22 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -16097,7 +17120,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C5187468"
+		(property "LCSC" "C2765186"
 			(at 367.03 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -16130,7 +17153,40 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C5187468"
+		(property "Field6" ""
+			(at 367.03 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 367.03 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C2765186"
+			(at 367.03 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 367.03 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -16456,6 +17512,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 91.44 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 91.44 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 91.44 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b505e7e9-9d8d-4f91-9554-3ac76e6c99ac")
 		)
@@ -16712,6 +17801,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 101.6 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 101.6 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 101.6 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "10"
 			(uuid "81a32d73-c930-4b75-99f7-c5246f80739f")
 		)
@@ -16907,6 +18029,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 229.87 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 229.87 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 229.87 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "865cd8b7-1ec4-4b6d-85df-686b8ab89480")
 		)
@@ -17072,6 +18227,208 @@
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/537b0dff-f1a9-47ce-8152-497fade9226c"
 					(reference "#PWR0194")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
+		(at 367.03 200.66 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b894db2f-32e6-4069-a856-1cab0bfcda3f")
+		(property "Reference" "J18"
+			(at 357.632 181.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USB-C"
+			(at 370.332 181.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library_Pollen:USB-C-SMD_TYPE-C-6PIN-2MD-073 Shou Han - C2765186"
+			(at 363.22 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+			(at 363.22 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 367.03 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2765186"
+			(at 367.03 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "'FT Position Offset" ""
+			(at 367.03 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field7" ""
+			(at 367.03 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 367.03 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 367.03 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C2765186"
+			(at 367.03 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 367.03 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "B8"
+			(uuid "3854d206-bcfa-44ef-8a6a-88d22e284c01")
+		)
+		(pin "A9"
+			(uuid "edf2237a-e2d5-43fe-997b-473f6d6ff2e3")
+		)
+		(pin "A6"
+			(uuid "915301bd-8e21-4783-aae2-28561e09dd53")
+		)
+		(pin "A7"
+			(uuid "a31767e6-4286-4171-83e8-ec45c93dc514")
+		)
+		(pin "A4"
+			(uuid "e484fe62-1683-4360-8768-c969de0768a8")
+		)
+		(pin "B12"
+			(uuid "96f60aa9-b667-4975-8453-86389d5e9df2")
+		)
+		(pin "A12"
+			(uuid "c0a8bc89-6622-4738-8bec-9e8ed6fbaec9")
+		)
+		(pin "A1"
+			(uuid "62d64385-5e75-4543-a016-21ba78eaad53")
+		)
+		(pin "A5"
+			(uuid "2307975e-296d-4528-82a6-6695613f0467")
+		)
+		(pin "A8"
+			(uuid "067f6199-04f9-4944-8d28-a07014d760a8")
+		)
+		(pin "B5"
+			(uuid "58a7c6fc-2a1d-4531-830c-e997e3d2e903")
+		)
+		(pin "B4"
+			(uuid "eef05e28-08ac-4181-8e1b-3ee9efb694a1")
+		)
+		(pin "B9"
+			(uuid "94c09265-6c7d-4a89-b75c-c339018cf54d")
+		)
+		(pin "SH"
+			(uuid "dcc5a518-b7c0-4cc4-9d01-8a717004c81e")
+		)
+		(pin "B1"
+			(uuid "e8793a08-d9e7-42cf-acdd-59f8dabad812")
+		)
+		(pin "B6"
+			(uuid "c83edc28-06fe-49a1-b791-8d5d54fa3199")
+		)
+		(pin "B7"
+			(uuid "1b774f59-6197-4579-bc19-7b6f5cf4ebc5")
+		)
+		(instances
+			(project "elec_grabette_io"
+				(path "/bc05f5da-608c-4912-90e4-36b13d989976/537b0dff-f1a9-47ce-8152-497fade9226c"
+					(reference "J18")
 					(unit 1)
 				)
 			)
@@ -17288,6 +18645,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 236.22 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 236.22 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 236.22 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 236.22 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -17593,6 +18983,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 325.12 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 325.12 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 325.12 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "0f178110-f207-4e58-9dfc-30ec3f396a64")
 		)
@@ -17835,6 +19258,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 171.45 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 171.45 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 171.45 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "854a0480-b89f-4bbd-a923-596adb232dd6")
 		)
@@ -18048,6 +19504,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 264.16 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 264.16 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 264.16 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b15302bb-dc36-4f1c-ae55-5a7d2927cdba")
 		)
@@ -18209,6 +19698,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 229.87 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 229.87 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 229.87 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 229.87 153.67 90)
 			(hide yes)
 			(show_name no)
@@ -18419,6 +19941,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 265.43 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 265.43 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 265.43 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 265.43 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -19018,6 +20573,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 259.08 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 259.08 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 259.08 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b83f52a3-9d2b-409d-aa3c-3f481fd42d6b")
 		)
@@ -19197,6 +20785,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 171.45 130.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 171.45 130.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 171.45 130.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 171.45 130.81 90)
 			(hide yes)
 			(show_name no)
@@ -19558,6 +21179,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 91.44 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 91.44 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 91.44 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d6b61aaf-2ffb-443e-8ba0-7c9f6f156449")
 		)
@@ -19719,6 +21373,39 @@
 			)
 		)
 		(property "LCSC Part" "C2837066"
+			(at 123.19 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 123.19 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 123.19 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 123.19 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -19920,6 +21607,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 167.64 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 167.64 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 167.64 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "56bd06c6-d149-48af-9058-df23d6c2e1ad")
 		)
@@ -20087,6 +21807,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 229.87 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 229.87 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 229.87 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 229.87 148.59 90)
 			(hide yes)
 			(show_name no)
@@ -20362,6 +22115,39 @@
 				)
 			)
 		)
+		(property "Field6" ""
+			(at 171.45 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 171.45 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 171.45 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2c49e4fa-c7e2-45b6-bfc8-0ba18d72fa7e")
 		)
@@ -20616,175 +22402,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
-		(at 367.03 148.59 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f6b0f939-f88a-46c8-95bb-7ff0bfd4b46a")
-		(property "Reference" "J17"
-			(at 357.632 129.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "USB-C Rec. Vert."
-			(at 370.332 129.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library_Pollen:USB-C_16p_vert_Shou-Han_TYPE-C 16P LTH6.8 - C5187468"
-			(at 363.22 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 363.22 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
-			(at 367.03 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C5187468"
-			(at 367.03 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "'FT Position Offset" ""
-			(at 367.03 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field7" ""
-			(at 367.03 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C5187468"
-			(at 367.03 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "B8"
-			(uuid "285133d3-11fa-4c8d-bbbb-d36b31b6133a")
-		)
-		(pin "A9"
-			(uuid "185ca858-6c9e-4251-b012-a2ae7b75fe16")
-		)
-		(pin "A6"
-			(uuid "5bed8c47-ea28-44f1-bd29-f54bb36d59a0")
-		)
-		(pin "A7"
-			(uuid "7bd73815-37dd-411c-b236-308db95696a5")
-		)
-		(pin "A4"
-			(uuid "8deabfff-584f-4ac8-9342-f3e6fb13d1ea")
-		)
-		(pin "B12"
-			(uuid "7b8051bc-1769-4bbc-8cae-f72da5ff0725")
-		)
-		(pin "A12"
-			(uuid "41763d3b-2ecb-476a-a883-2b2f30b50060")
-		)
-		(pin "A1"
-			(uuid "be3d6e56-e46f-4f85-b5e1-9b2f405041b4")
-		)
-		(pin "A5"
-			(uuid "035b3a17-d743-4715-b570-aa60a0aa8e82")
-		)
-		(pin "A8"
-			(uuid "fd2417cd-4d00-4e3e-ad95-1871e1339dc7")
-		)
-		(pin "B5"
-			(uuid "079145eb-7cbc-4a92-9d8d-f713f16e6e49")
-		)
-		(pin "B4"
-			(uuid "ff6f8be2-379d-49a3-b8b3-1a178aa834a1")
-		)
-		(pin "B9"
-			(uuid "d5e20280-d135-411c-b2cc-8155ac3d2b7f")
-		)
-		(pin "SH"
-			(uuid "ccefda4b-9ffb-4e63-8f27-a0439828f4bd")
-		)
-		(pin "B1"
-			(uuid "b16d09a6-2a5b-4714-9c16-0a81f8a497c3")
-		)
-		(pin "B6"
-			(uuid "769069d5-37dd-4442-969c-5a501cda056e")
-		)
-		(pin "B7"
-			(uuid "0eba613a-c031-4bd4-a948-f48c2cdda11c")
-		)
-		(instances
-			(project "elec_grabette_io"
-				(path "/bc05f5da-608c-4912-90e4-36b13d989976/537b0dff-f1a9-47ce-8152-497fade9226c"
-					(reference "J17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 240.03 198.12 90)
 		(mirror x)
@@ -20951,6 +22568,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 240.03 198.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 240.03 198.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 240.03 198.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 240.03 198.12 90)
 			(hide yes)
 			(show_name no)
@@ -21176,6 +22826,39 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 251.46 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 251.46 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
+			(at 251.46 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
 			(at 251.46 201.93 90)
 			(hide yes)
 			(show_name no)

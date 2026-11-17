@@ -1091,7 +1091,7 @@
         "uuid": "bc05f5da-608c-4912-90e4-36b13d989976"
       }
     ],
-    "used_designators": "#FLG1-10,#FLG15,#PWR1-212,#PWR260,#PWR263,#PWR437-441,#PWR517-521,C1-91,C121,C188-189,D1-25,FB1-5,FID1-3,G1,H1-6,J1-26,L1-18,MK1,Q1-4,R1-100,R214,SW1-3,TH1-2,TP1-18,TP38,U1-20,U36,Y1-2",
+    "used_designators": "#FLG1-10,#FLG15,#PWR1-212,#PWR215-220,#PWR260,#PWR263,#PWR437-441,#PWR517-521,C1-93,C121,C188-189,D1-25,FB1-5,FID1-3,G1,H1-7,J1-29,L1-18,MK1,Q1-4,R1-100,R103,R214,SW1-3,TH1-2,TP1-18,TP38,U1-21,U36,Y1-2",
     "variants": []
   },
   "sheets": [
@@ -1100,20 +1100,12 @@
       "elec_grabette_io"
     ],
     [
-      "dd8df41a-ac53-4462-a3fb-30e558be4c8a",
-      "Dynamixel"
-    ],
-    [
-      "0c96912b-e4c1-4c95-9b89-2df53fe3745d",
-      "Audio"
-    ],
-    [
-      "6d5f3336-be7f-4ca2-b8b7-6b4ab5309398",
-      "Sensors"
-    ],
-    [
       "e7d9abd9-289a-4e3c-9a37-79fde50abb11",
       "Power supply"
+    ],
+    [
+      "537b0dff-f1a9-47ce-8152-497fade9226c",
+      "USB switch + hub"
     ],
     [
       "f79b194a-080a-4f99-99db-c9d17604bfa0",
@@ -1124,8 +1116,16 @@
       "CM4 High Speed"
     ],
     [
-      "537b0dff-f1a9-47ce-8152-497fade9226c",
-      "USB switch + hub"
+      "6d5f3336-be7f-4ca2-b8b7-6b4ab5309398",
+      "Sensors"
+    ],
+    [
+      "0c96912b-e4c1-4c95-9b89-2df53fe3745d",
+      "Audio"
+    ],
+    [
+      "dd8df41a-ac53-4462-a3fb-30e558be4c8a",
+      "Dynamixel"
     ]
   ],
   "text_variables": {},
