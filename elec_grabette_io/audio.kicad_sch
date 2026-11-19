@@ -5710,7 +5710,7 @@
 		(uuid "ffd227e5-a8d5-47f0-9da8-53632716d309")
 	)
 	(label "IO_03_I2C1"
-		(at 80.01 68.58 0)
+		(at 74.93 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5720,7 +5720,7 @@
 		(uuid "1ce6a116-5dfd-4c7c-9c4a-7c6c7197d3ed")
 	)
 	(label "IO_19"
-		(at 80.01 77.47 0)
+		(at 74.93 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5730,7 +5730,7 @@
 		(uuid "b5eaf892-523d-4e60-85e5-a657ee66a416")
 	)
 	(label "IO_21"
-		(at 80.01 82.55 0)
+		(at 74.93 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5740,7 +5740,7 @@
 		(uuid "ba9af942-2d40-456e-b9be-a941379c91be")
 	)
 	(label "IO_20"
-		(at 80.01 85.09 0)
+		(at 74.93 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5750,7 +5750,7 @@
 		(uuid "f450e7ea-1b31-4403-8a60-c0d6a00a6d79")
 	)
 	(label "IO_02_I2C1"
-		(at 80.01 71.12 0)
+		(at 74.93 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5760,7 +5760,7 @@
 		(uuid "f840f945-9356-454b-9a3f-35f9045c429b")
 	)
 	(label "IO_18"
-		(at 80.01 80.01 0)
+		(at 74.93 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
