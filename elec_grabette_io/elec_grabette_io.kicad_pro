@@ -214,10 +214,12 @@
       ],
       "track_widths": [
         0.0,
+        0.2,
         0.25,
         0.3,
         0.5,
-        1.0
+        1.0,
+        1.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -1091,7 +1093,7 @@
         "uuid": "bc05f5da-608c-4912-90e4-36b13d989976"
       }
     ],
-    "used_designators": "#FLG1-10,#FLG15,#PWR1-212,#PWR215-220,#PWR260,#PWR263,#PWR437-441,#PWR517-521,C1-93,C121,C188-189,D1-25,FB1-5,FID1-3,G1,H1-7,J1-29,L1-18,MK1,Q1-4,R1-100,R103,R214,SW1-3,TH1-2,TP1-18,TP38,U1-21,U36,Y1-2",
+    "used_designators": "#FLG1-10,#FLG15,#PWR1-212,#PWR215-220,#PWR260,#PWR263,#PWR437-441,#PWR517-521,C1-93,C121,C188-189,D1-30,FB1-5,FID1-3,G1,H1-7,J1-29,L1-18,MK1,Q1-4,R1-100,R103,R214,SW1-3,TH1-2,TP1-18,TP38,U1-21,U36,Y1-2",
     "variants": []
   },
   "sheets": [

@@ -9344,7 +9344,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SMBJ15A"
+		(property "Value" "SMAJ8.0A"
 			(at 347.98 166.3699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9355,7 +9355,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMB"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 340.995 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -9388,7 +9388,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C113988"
+		(property "LCSC Part" "C1972936"
 			(at 345.44 165.1 90)
 			(hide yes)
 			(show_name no)
