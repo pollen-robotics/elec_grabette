@@ -678,6 +678,222 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector_Generic:Conn_01x04"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x04"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x04_1_1"
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
@@ -3276,13 +3492,13 @@
 		(uuid "a3406d85-ba09-49bd-bcb7-d8027d656e64")
 	)
 	(junction
-		(at 247.65 53.34)
+		(at 247.65 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a69ab70d-0bb4-4d14-8892-5429f0c7ea52")
 	)
 	(junction
-		(at 257.81 45.72)
+		(at 257.81 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a803adaa-6806-4b28-97bb-fe9235eb36f8")
@@ -3312,7 +3528,7 @@
 		(uuid "b39a632f-3edd-4408-996d-b0e4c4b72a0f")
 	)
 	(junction
-		(at 237.49 43.18)
+		(at 237.49 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5b8e6f7-4423-4861-97ae-086701d965eb")
@@ -3390,7 +3606,7 @@
 		(uuid "eb8c1408-f4b0-4f73-84b7-1ef144990fcb")
 	)
 	(junction
-		(at 250.19 43.18)
+		(at 250.19 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f787543c-9ea0-4e4b-af01-e4d8d1b1014d")
@@ -3611,7 +3827,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 53.34) (xy 247.65 53.34)
+			(xy 250.19 49.53) (xy 247.65 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3628,16 +3844,6 @@
 			(type default)
 		)
 		(uuid "0f2884e3-8f80-4fb9-bfb6-6641efc754d1")
-	)
-	(wire
-		(pts
-			(xy 250.19 43.18) (xy 250.19 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f4040f6-c4a1-4123-aa51-1829b592382d")
 	)
 	(wire
 		(pts
@@ -3821,7 +4027,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 45.72) (xy 257.81 48.26)
+			(xy 257.81 44.45) (xy 257.81 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3901,7 +4107,17 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 52.07) (xy 247.65 53.34)
+			(xy 250.19 41.91) (xy 250.19 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3233a81d-6009-4fbb-bed7-c53c92d63146")
+	)
+	(wire
+		(pts
+			(xy 247.65 48.26) (xy 247.65 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3931,7 +4147,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 36.83) (xy 247.65 46.99)
+			(xy 247.65 36.83) (xy 247.65 43.18)
 		)
 		(stroke
 			(width 0)
@@ -4031,7 +4247,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 52.07) (xy 250.19 53.34)
+			(xy 250.19 48.26) (xy 250.19 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4181,7 +4397,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 43.18) (xy 250.19 43.18)
+			(xy 237.49 41.91) (xy 250.19 41.91)
 		)
 		(stroke
 			(width 0)
@@ -4191,7 +4407,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 39.37) (xy 257.81 45.72)
+			(xy 257.81 39.37) (xy 257.81 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4411,7 +4627,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 43.18) (xy 237.49 43.18)
+			(xy 218.44 41.91) (xy 237.49 41.91)
 		)
 		(stroke
 			(width 0)
@@ -4531,7 +4747,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 45.72) (xy 259.08 45.72)
+			(xy 257.81 44.45) (xy 259.08 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4571,7 +4787,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 43.18) (xy 259.08 43.18)
+			(xy 250.19 41.91) (xy 259.08 41.91)
 		)
 		(stroke
 			(width 0)
@@ -4658,6 +4874,16 @@
 			(type default)
 		)
 		(uuid "8a5f1c8e-cbd8-48de-8659-88d3eb76dfc8")
+	)
+	(wire
+		(pts
+			(xy 237.49 27.94) (xy 237.49 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ccc1203-a03d-4704-8090-e7d97c1c0b6b")
 	)
 	(wire
 		(pts
@@ -4981,7 +5207,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 53.34) (xy 247.65 54.61)
+			(xy 247.65 49.53) (xy 247.65 50.8)
 		)
 		(stroke
 			(width 0)
@@ -5221,7 +5447,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 43.18) (xy 213.36 43.18)
+			(xy 157.48 41.91) (xy 213.36 41.91)
 		)
 		(stroke
 			(width 0)
@@ -5431,16 +5657,6 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 27.94) (xy 237.49 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7a4011a-03ce-4113-ab9a-c243a7b49a3a")
-	)
-	(wire
-		(pts
 			(xy 168.91 143.51) (xy 168.91 116.84)
 		)
 		(stroke
@@ -5481,7 +5697,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 93.98) (xy 157.48 43.18)
+			(xy 157.48 93.98) (xy 157.48 41.91)
 		)
 		(stroke
 			(width 0)
@@ -7868,143 +8084,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 264.16 39.37 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3d00266c-3f64-4937-80cd-44c8f67d80b5")
-		(property "Reference" "J5"
-			(at 266.7 39.3701 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw term."
-			(at 270.51 41.656 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LCSC_parts_lib:CONN-TH_DB125-2.54-2P-GN"
-			(at 264.16 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 264.16 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 264.16 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C918120"
-			(at 264.16 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "FT Rotation Offset" ""
-			(at 264.16 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field6" ""
-			(at 264.16 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field8" ""
-			(at 264.16 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Description" ""
-			(at 264.16 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "afe11367-3cf3-4058-90c6-a6d79e408e61")
-		)
-		(pin "1"
-			(uuid "e5b22a5b-8d58-4f83-b696-41f2028d9ca9")
-		)
-		(instances
-			(project "elec_grabette_io"
-				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 234.95 67.31 0)
 		(mirror y)
@@ -8488,6 +8567,94 @@
 			(project "elec_grabette_io"
 				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
 					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 264.16 39.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "4824c765-c188-49ae-bc89-533863d23aaa")
+		(property "Reference" "J23"
+			(at 266.7 39.3699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Header 2,54 2x2"
+			(at 266.7 41.9099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical"
+			(at 264.16 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 264.16 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 264.16 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "36b7423c-d952-4d77-9ad6-d274a27b3cce")
+		)
+		(pin "2"
+			(uuid "979b0deb-638b-4ff3-b12e-a753fd750c72")
+		)
+		(pin "1"
+			(uuid "abc1b5ec-66ba-4f60-ae7a-7981f7ad6356")
+		)
+		(pin "4"
+			(uuid "7cbf469c-eeb0-4b78-a2e8-fe47eb914c0a")
+		)
+		(instances
+			(project "elec_grabette_io"
+				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
+					(reference "J23")
 					(unit 1)
 				)
 			)
@@ -10734,7 +10901,7 @@
 		(dnp no)
 		(uuid "6cc04f14-91e6-4dcf-a740-b5815ee85e80")
 		(property "Reference" "C26"
-			(at 214.122 38.354 90)
+			(at 214.376 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10745,7 +10912,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 219.964 38.354 90)
+			(at 220.218 39.37 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10849,7 +11016,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 215.9 43.18 90)
+		(at 215.9 41.91 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -10860,7 +11027,7 @@
 		(dnp no)
 		(uuid "6ff91568-fab9-431f-a2b4-4020c032f06f")
 		(property "Reference" "C27"
-			(at 214.122 44.704 90)
+			(at 214.376 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10871,7 +11038,8 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 219.964 44.704 90)
+			(at 219.964 43.434 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10882,7 +11050,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 215.9 43.18 0)
+			(at 215.9 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10893,7 +11061,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 43.18 0)
+			(at 215.9 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10904,7 +11072,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 215.9 43.18 0)
+			(at 215.9 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10915,7 +11083,7 @@
 			)
 		)
 		(property "LCSC Part" "C52923"
-			(at 215.9 43.18 0)
+			(at 215.9 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10926,7 +11094,7 @@
 			)
 		)
 		(property "Field6" ""
-			(at 215.9 43.18 90)
+			(at 215.9 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10937,7 +11105,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 215.9 43.18 90)
+			(at 215.9 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10948,7 +11116,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 215.9 43.18 90)
+			(at 215.9 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13856,7 +14024,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 247.65 49.53 180)
+		(at 247.65 45.72 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13866,7 +14034,7 @@
 		(dnp yes)
 		(uuid "9849bd13-6693-4ad1-91eb-e59fef24b87d")
 		(property "Reference" "R21"
-			(at 243.586 46.482 0)
+			(at 243.586 42.672 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13876,7 +14044,7 @@
 			)
 		)
 		(property "Value" "DNP-1M"
-			(at 242.062 50.546 0)
+			(at 242.062 46.736 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13886,7 +14054,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 247.65 49.53 0)
+			(at 247.65 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13897,7 +14065,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 49.53 0)
+			(at 247.65 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13908,7 +14076,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 247.65 49.53 0)
+			(at 247.65 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13919,7 +14087,7 @@
 			)
 		)
 		(property "LCSC Part" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13930,7 +14098,7 @@
 			)
 		)
 		(property "Dielectric" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13941,7 +14109,7 @@
 			)
 		)
 		(property "Power Rating" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13952,7 +14120,7 @@
 			)
 		)
 		(property "Resistance" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13963,7 +14131,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13974,7 +14142,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13985,7 +14153,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13996,7 +14164,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14007,7 +14175,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14018,7 +14186,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14029,7 +14197,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14040,7 +14208,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14051,7 +14219,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14062,7 +14230,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14073,7 +14241,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 247.65 49.53 90)
+			(at 247.65 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14084,7 +14252,7 @@
 			)
 		)
 		(property "Field6" ""
-			(at 247.65 49.53 0)
+			(at 247.65 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14095,7 +14263,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 247.65 49.53 0)
+			(at 247.65 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14106,7 +14274,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 247.65 49.53 0)
+			(at 247.65 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14494,7 +14662,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 257.81 48.26 0)
+		(at 257.81 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14505,7 +14673,7 @@
 		(fields_autoplaced yes)
 		(uuid "9fdbad5d-2010-4898-9d14-e06f7302a143")
 		(property "Reference" "#PWR071"
-			(at 257.81 54.61 0)
+			(at 257.81 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14516,7 +14684,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 257.81 53.34 0)
+			(at 257.81 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14527,7 +14695,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 257.81 48.26 0)
+			(at 257.81 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14538,7 +14706,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 48.26 0)
+			(at 257.81 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14549,7 +14717,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 257.81 48.26 0)
+			(at 257.81 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16396,7 +16564,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 247.65 54.61 0)
+		(at 247.65 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16407,7 +16575,7 @@
 		(fields_autoplaced yes)
 		(uuid "bf53f1db-ded2-4800-a486-fb34420e71b9")
 		(property "Reference" "#PWR069"
-			(at 247.65 60.96 0)
+			(at 247.65 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16418,7 +16586,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 247.65 59.69 0)
+			(at 247.65 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16429,7 +16597,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 247.65 54.61 0)
+			(at 247.65 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16440,7 +16608,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 54.61 0)
+			(at 247.65 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16451,7 +16619,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 247.65 54.61 0)
+			(at 247.65 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17816,144 +17984,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 264.16 45.72 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "da5d53e1-7d76-415d-8830-6796a8ec1ed5")
-		(property "Reference" "J6"
-			(at 266.7 45.7201 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw term."
-			(at 266.7 43.1801 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LCSC_parts_lib:CONN-TH_DB125-2.54-2P-GN"
-			(at 264.16 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 264.16 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 264.16 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C918120"
-			(at 264.16 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "FT Rotation Offset" ""
-			(at 264.16 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field6" ""
-			(at 264.16 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field8" ""
-			(at 264.16 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Description" ""
-			(at 264.16 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e21bef90-89cd-4223-879f-dd96c88a64c3")
-		)
-		(pin "1"
-			(uuid "f77c2cae-91d3-46b8-b157-7356eb0c47ee")
-		)
-		(instances
-			(project "elec_grabette_io"
-				(path "/bc05f5da-608c-4912-90e4-36b13d989976/0c96912b-e4c1-4c95-9b89-2df53fe3745d"
-					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 64.77 132.08 0)
 		(unit 1)
@@ -18880,7 +18910,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 250.19 49.53 180)
+		(at 250.19 45.72 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18890,7 +18920,7 @@
 		(dnp yes)
 		(uuid "eee1827b-0656-425c-9ae9-c99b89434898")
 		(property "Reference" "R22"
-			(at 243.586 48.006 0)
+			(at 243.586 44.196 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18900,7 +18930,7 @@
 			)
 		)
 		(property "Value" "DNP-1M"
-			(at 243.078 48.768 0)
+			(at 243.078 44.958 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18911,7 +18941,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 250.19 49.53 0)
+			(at 250.19 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18922,7 +18952,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 49.53 0)
+			(at 250.19 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18933,7 +18963,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 250.19 49.53 0)
+			(at 250.19 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18944,7 +18974,7 @@
 			)
 		)
 		(property "LCSC Part" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18955,7 +18985,7 @@
 			)
 		)
 		(property "Dielectric" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18966,7 +18996,7 @@
 			)
 		)
 		(property "Power Rating" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18977,7 +19007,7 @@
 			)
 		)
 		(property "Resistance" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18988,7 +19018,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18999,7 +19029,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19010,7 +19040,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19021,7 +19051,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19032,7 +19062,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19043,7 +19073,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19054,7 +19084,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19065,7 +19095,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19076,7 +19106,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19087,7 +19117,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19098,7 +19128,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 250.19 49.53 90)
+			(at 250.19 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19109,7 +19139,7 @@
 			)
 		)
 		(property "Field6" ""
-			(at 250.19 49.53 0)
+			(at 250.19 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19120,7 +19150,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 250.19 49.53 0)
+			(at 250.19 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19131,7 +19161,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 250.19 49.53 0)
+			(at 250.19 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

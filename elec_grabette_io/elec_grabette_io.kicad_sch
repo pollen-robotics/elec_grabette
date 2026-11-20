@@ -637,7 +637,7 @@
 		)
 		(uuid "3855db64-4801-445b-b83e-9e7849cbe5fc")
 	)
-	(text "ASE01uvw"
+	(text "ASE01215"
 		(exclude_from_sim no)
 		(at 59.69 179.705 0)
 		(effects
@@ -1348,7 +1348,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PCB01xyz"
+		(property "Value" "PCB01214"
 			(at 59.69 175.895 0)
 			(show_name no)
 			(do_not_autoplace no)
