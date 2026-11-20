@@ -6835,7 +6835,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Official connectors:\n - DF40C-100DS-0.4V(51) but 1,5 mm height -> no component below CM4.\n - DF40HC(3.0)-100DS-0.4V(51) but not available. So we are testing\n   this copy: HC-PBB40C-100DS-0.4V-3.0"
+	(text "Official connectors:\n - DF40C-100DS-0.4V(51) but 1,5 mm height -> no component below CM4.\n - DF40HC(3.0)-100DS-0.4V(51) but not available. So we may test this\n   copy: HC-PBB40C-100DS-0.4V-3.0"
 		(exclude_from_sim no)
 		(at 86.36 179.324 0)
 		(effects
@@ -16046,7 +16046,7 @@
 				)
 			)
 		)
-		(property "Value" "CM4 Connector 3mm"
+		(property "Value" "CM4 Connector"
 			(at 117.094 169.926 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16089,7 +16089,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C55084520"
+		(property "LCSC Part" "C597931"
 			(at 114.3 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -19810,7 +19810,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library_Pollen:Raspberry-Pi-4-Compute-Module_3.0mm_height"
+		(property "Footprint" "Library_Pollen:Raspberry-Pi-4-Compute-Module"
 			(at 264.16 120.65 0)
 			(hide yes)
 			(show_name no)

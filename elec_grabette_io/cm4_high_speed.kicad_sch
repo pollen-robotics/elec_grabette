@@ -13027,7 +13027,7 @@
 				)
 			)
 		)
-		(property "Value" "CM4 Connector 3mm"
+		(property "Value" "CM4 Connector"
 			(at 208.534 191.516 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13070,7 +13070,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C55084520"
+		(property "LCSC Part" "C597931"
 			(at 205.74 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -13354,7 +13354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library_Pollen:Raspberry-Pi-4-Compute-Module_3.0mm_height"
+		(property "Footprint" "Library_Pollen:Raspberry-Pi-4-Compute-Module"
 			(at 212.09 147.32 0)
 			(hide yes)
 			(show_name no)

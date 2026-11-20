@@ -4435,6 +4435,28 @@
 		)
 		(uuid "a226cd6a-a69b-44eb-b55b-7be14c5f03a8")
 	)
+	(text "!! This part is *under* the CM4 and\nthus requires higher stack connectors"
+		(exclude_from_sim no)
+		(at 267.208 243.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ad12d015-8d61-430e-90f9-fe6ec193fb40")
+	)
+	(text ""
+		(exclude_from_sim no)
+		(at 280.924 244.856 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c5a10d8f-64c1-47a5-a6df-e92d7b991f0b")
+	)
 	(text "Function"
 		(exclude_from_sim no)
 		(at 119.126 184.912 0)
@@ -9814,7 +9836,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "228a7e01-adac-4502-b09c-465ee268b65a")
 		(property "Reference" "U18"
 			(at 246.126 246.126 0)
@@ -9827,8 +9849,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "24C02S"
-			(at 243.586 261.62 0)
+		(property "Value" "DNP-24C02S"
+			(at 237.998 261.874 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9893,7 +9915,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C18723540"
+		(property "LCSC Part" ""
 			(at 243.84 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -19283,7 +19305,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c974ac64-10d2-4282-8a9a-5fa9c409c942")
 		(property "Reference" "C84"
 			(at 265.938 251.968 0)
@@ -19296,8 +19318,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100n"
-			(at 265.43 256.54 0)
+		(property "Value" "DNP-100n"
+			(at 265.43 257.556 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19373,7 +19395,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C307331"
+		(property "LCSC Part" ""
 			(at 264.16 254 0)
 			(hide yes)
 			(show_name no)
