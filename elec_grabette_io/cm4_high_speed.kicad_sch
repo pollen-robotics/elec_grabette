@@ -10859,7 +10859,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C5306608"
+		(property "LCSC Part" "C160402"
 			(at 372.11 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -11886,6 +11886,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "5.31,-1.21"
+			(at 41.91 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "12dc6970-cb50-4a6d-9982-05b082b8fe46")
 		)
@@ -12299,7 +12310,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C5306608"
+		(property "LCSC Part" "C160402"
 			(at 356.87 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -15816,6 +15827,17 @@
 			)
 		)
 		(property "Part Description" ""
+			(at 382.27 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" "5.31,-1.21"
 			(at 382.27 100.33 0)
 			(hide yes)
 			(show_name no)

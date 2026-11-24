@@ -553,6 +553,24 @@
         "bus_width": 12,
         "clearance": 0.15,
         "diff_pair_gap": 0.15,
+        "diff_pair_via_gap": 0.15,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "name": "CSI_100R",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.15,
+        "diff_pair_gap": 0.15,
+        "diff_pair_via_gap": 0.15,
         "diff_pair_width": 0.25,
         "line_style": 0,
         "name": "USB_data",
@@ -571,7 +589,36 @@
     },
     "net_colors": {},
     "netclass_assignments": {},
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "CSI_100R",
+        "pattern": "/CM4 GPIO/CAM0_*"
+      },
+      {
+        "netclass": "CSI_100R",
+        "pattern": "/CM4 GPIO/CAM1_*"
+      },
+      {
+        "netclass": "CSI_100R",
+        "pattern": "/CM4 High Speed/CAM0_*"
+      },
+      {
+        "netclass": "CSI_100R",
+        "pattern": "/CM4 High Speed/C1_*"
+      },
+      {
+        "netclass": "USB_data",
+        "pattern": "/CM4 High Speed/USB_CM4.D_*"
+      },
+      {
+        "netclass": "USB_data",
+        "pattern": "/USB switch + hub/USB_DBG.D_*"
+      },
+      {
+        "netclass": "USB_data",
+        "pattern": "/USB switch + hub/hub_D*"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -1093,7 +1140,7 @@
         "uuid": "bc05f5da-608c-4912-90e4-36b13d989976"
       }
     ],
-    "used_designators": "#FLG1-10,#FLG15,#PWR1-212,#PWR215-220,#PWR260,#PWR263,#PWR437-441,#PWR517-521,C1-93,C121,C188-189,D1-30,FB1-5,FID1-3,G1,H1-7,J1-29,L1-18,MK1,Q1-4,R1-100,R103,R214,SW1-3,TH1-2,TP1-22,TP38,U1-21,U36,Y1-2",
+    "used_designators": "#FLG1-10,#FLG15,#PWR1-212,#PWR215-220,#PWR260,#PWR263,#PWR437-441,#PWR517-521,C1-93,C121,C188-189,D1-30,FB1-5,FID1-3,G1,H1-7,J1-29,L1-18,MK1,Q1-4,R1-100,R103,R105,R214,SW1-3,TH1-2,TP1-22,TP38,U1-21,U36,Y1-2",
     "variants": []
   },
   "sheets": [
