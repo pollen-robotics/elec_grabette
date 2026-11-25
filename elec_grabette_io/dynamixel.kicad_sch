@@ -10345,7 +10345,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS22810DRV"
+		(property "Value" "tp"
 			(at 176.53 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
