@@ -86482,6 +86482,7 @@
 		(property "Reference" "J10"
 			(at -3.4 2.14 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9d4597a3-9894-496c-8983-95515e359941")
 			(effects
 				(font
@@ -91580,7 +91581,7 @@
 			(uuid "d2d80f6b-63e5-4907-96de-962172e502ee")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm.step"
+		(model "/usr/share/kicad/3dmodels/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
